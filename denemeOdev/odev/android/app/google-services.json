@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76591559083",
+    "project_id": "mobilfinal-eab94",
+    "storage_bucket": "mobilfinal-eab94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76591559083:android:04f18c7493da1784fbe2ee",
+        "android_client_info": {
+          "package_name": "com.example.odev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsi_IzwVOipc_9vrHS6q485Fe3r9-_eHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
